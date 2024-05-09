@@ -2,7 +2,7 @@
 ### Hello i'm Alimov Ulugbek Frontend developer 😁 
 
 ### About me 🙋‍♂️
-#### "I'm a frontend developer specializing in Vue.js with a solid work experience. I'm also delving into React, eager to expand my skillset and take on new challenges. Passionate about creating responsive and intuitive user interfaces, I thrive on crafting engaging web experiences that leave a lasting impression."
+#### "I'm a frontend developer specializing in Vue.js with a solid work experience. I'm also delving into React, eager to expand my skillset and take on new challenges.
 
 ### Language and Frameworks 📝
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000)
