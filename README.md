@@ -1,5 +1,5 @@
 [![Header](https://github.com/UlugbekAlimov/UlugbekAlimov/blob/main/assets/Surname493x201Fotolia_81728018_S.jpg)]()
-### Hello i'm Alimov Ulugbek Frontend developer 😁 
+### Hello, I'm Ulugbek Alimov, I'm a frontend developer 😁 
 
 ### About me 🙋‍♂️
 #### "I'm a frontend developer specializing in Vue.js with a solid work experience. I'm also delving into React, eager to expand my skillset and take on new challenges.
