@@ -1,4 +1,4 @@
-[![Header](https://github.com/UlugbekAlimov/UlugbekAlimov/blob/main/assets/header2.jpg)]()
+[![Header](https://github.com/UlugbekAlimov/UlugbekAlimov/blob/main/assets/image.png)]()
 ### Hello, I'm Ulugbek Alimov, I'm a frontend developer 😁 
 
 ### About me 🙋‍♂️
