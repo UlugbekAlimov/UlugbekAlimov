@@ -1,5 +1,5 @@
-[![Header](https://github.com/UlugbekAlimov/UlugbekAlimov/blob/main/assets/image.png)]()
-### Hello, I'm Ulugbek Alimov, I'm a frontend developer 😁 
+<!-- [![Header](https://github.com/UlugbekAlimov/UlugbekAlimov/blob/main/assets/image.png)]() -->
+#### Hello, I'm Ulugbek Alimov, I'm a frontend developer 😁 
 
 ### About me 🙋‍♂️
 #### "I'm a frontend developer specializing in Vue.js with a solid work experience. I'm also delving into React, eager to expand my skillset and take on new challenges.
