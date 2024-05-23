@@ -23,7 +23,7 @@
 ![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=000000)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=000000)
 ![Canva](https://img.shields.io/badge/-Canva-FF7A73?style=for-the-badge&logo=Canva&logoColor=000000)
-![Vite](https://img.shields.io/badge/-Vite-FF7A73?style=for-the-badge&logo=Vite&logoColor=000000)
+![Vite](https://img.shields.io/badge/-Vite-FF7A73?style=for-the-badge&logo=Vite&logoColor=ffffff)
 
 
 ### Follow me 📲
