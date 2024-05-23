@@ -17,13 +17,13 @@
 ### Tools ⚒️
 
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=VSCode&logoColor=000000)
-![Chrome](https://img.shields.io/badge/-Chrome-AAAAAA?style=for-the-badge&logo=chrome&logoColor=000000)
+![Chrome](https://img.shields.io/badge/-Chrome-ffffff?style=for-the-badge&logo=chrome&logoColor=000000)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFA611?style=for-the-badge&logo=Firebase&logoColor=000000)
 ![Figma](https://img.shields.io/badge/-Figma-000000?style=for-the-badge&logo=Figma&logoColor=FF0000)
 ![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=000000)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=000000)
 ![Canva](https://img.shields.io/badge/-Canva-FF7A73?style=for-the-badge&logo=Canva&logoColor=000000)
-![Vite](https://img.shields.io/badge/-Vite-FF7A73?style=for-the-badge&logo=Vite&logoColor=ffffff)
+![Vite](https://img.shields.io/badge/-Vite-ffffff?style=for-the-badge&logo=Vite&logoColor=000000)
 
 
 ### Follow me 📲
