@@ -7,7 +7,7 @@
 ### Language and Frameworks 📝
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000)
 ![image](https://img.shields.io/badge/Angular-20232A?style=for-the-badge&logo=angular&logoColor=61DAFB) 
-![image](https://img.shields.io/badge/RXJS-20232A?style=for-the-badge&logo=rxjs&logoColor=61DAFB) 
+<img alt="RxJS" src="https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white" />
 ![Vue.js](https://img.shields.io/badge/-Vue.js-42b883?style=for-the-badge&logo=vue.js&logoColor=000000)
 ![Tailwind-CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=TypeScript&logoColor=000000)
