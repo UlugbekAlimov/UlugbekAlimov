@@ -2,12 +2,12 @@
 #### Hello, I'm Ulugbek Alimov, I'm a frontend developer 😁 
 
 ### About me 🙋‍♂️
-#### "I'm a frontend developer specializing in Vue.js with a solid work experience. I'm also delving into React, eager to expand my skill set and take on new challenges.
+#### "I'm a frontend developer specializing in Vue.js with a solid work experience. I'm also delving into Angular, eager to expand my skill set and take on new challenges.
 
 ### Language and Frameworks 📝
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-42b883?style=for-the-badge&logo=vue.js&logoColor=000000)
-![React.js](https://img.shields.io/badge/-React.js-61DAFB?style=for-the-badge&logo=react.js&logoColor=ffffff)
+![Angular.js](https://img.shields.io/badge/-Angular.js-61DAFB?style=for-the-badge&logo=angular.js&logoColor=ffffff)
 ![Tailwind.css](https://img.shields.io/badge/-Tailwind.css-61DAFB?style=for-the-badge&logo=Tailwind.css&logoColor=000000)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=TypeScript&logoColor=000000)
 ![Vuetify](https://img.shields.io/badge/-Vuetify-00C58E?style=for-the-badge&logo=Vuetify&logoColor=000000)
