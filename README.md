@@ -15,6 +15,8 @@
 ![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-00C58E?style=for-the-badge&logo=Nuxt.js&logoColor=000000)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-555555?style=for-the-badge&logo=Bootstrap&logoColor=000000)
 ![Node.js](https://img.shields.io/badge/-Node.js-00C68E?style=for-the-badge&logo=Node.js&logoColor=000000)
+![Nodejs](https://img.shields.io/badge/-Nestjs-FF0000?style=for-the-badge&logo=Nestjs&logoColor=000000)
+
 
 
 ### Tools ⚒️
