@@ -14,7 +14,7 @@
 ![Vuetify](https://img.shields.io/badge/-Vuetify-00C58E?style=for-the-badge&logo=Vuetify&logoColor=000000)
 ![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-00C58E?style=for-the-badge&logo=Nuxt.js&logoColor=000000)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-555555?style=for-the-badge&logo=Bootstrap&logoColor=000000)
-![image](https://img.shields.io/badge/Node-20232A?style=for-the-badge&logo=node&logoColor=61DAFB) 
+![Node.js](https://img.shields.io/badge/-Node.js-00C68E?style=for-the-badge&logo=Node.js&logoColor=000000)
 
 
 ### Tools ⚒️
