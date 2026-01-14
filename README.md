@@ -33,7 +33,7 @@
 
 ### Activity Graph 📊
 
-[![Blessing's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=olaleye-blessing&theme=react-dark)](https://github.com/olaleye-blessing/github-readme-activity-graph)
+[![Blessing's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=alimov-ulugbek&theme=react-dark)](https://github.com/UlugbekAlimov/github-readme-activity-graph)
 
 
 ### Follow me 📲
