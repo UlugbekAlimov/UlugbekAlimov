@@ -31,11 +31,6 @@
 ![Canva](https://img.shields.io/badge/-Canva-FF7A73?style=for-the-badge&logo=Canva&logoColor=000000)
 ![Vite](https://img.shields.io/badge/-Vite-ffffff?style=for-the-badge&logo=Vite&logoColor=000000)
 
-### Activity Graph 📊
-
-[![Blessing's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=alimov-ulugbek&theme=react-dark)](https://github.com/UlugbekAlimov/github-readme-activity-graph)
-
-
 ### Follow me 📲
 [![Telegram](https://img.shields.io/badge/-Telegram-007ACC?style=for-the-badge&logo=Telegram&logoColor=000000)](https://t.me/Al1mov2004)
 [![Instagram](https://img.shields.io/badge/-Instagram-833AB4?style=for-the-badge&logo=Instagram&logoColor=000000)](https://www.instagram.com/al1mov_ulugbek?igsh=d2hiMnUzenptZXJm)
