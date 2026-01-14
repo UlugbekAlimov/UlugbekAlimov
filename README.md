@@ -31,6 +31,10 @@
 ![Canva](https://img.shields.io/badge/-Canva-FF7A73?style=for-the-badge&logo=Canva&logoColor=000000)
 ![Vite](https://img.shields.io/badge/-Vite-ffffff?style=for-the-badge&logo=Vite&logoColor=000000)
 
+### Activity Graph 📊
+
+[![Blessing's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=olaleye-blessing&theme=react-dark)](https://github.com/olaleye-blessing/github-readme-activity-graph)
+
 
 ### Follow me 📲
 [![Telegram](https://img.shields.io/badge/-Telegram-007ACC?style=for-the-badge&logo=Telegram&logoColor=000000)](https://t.me/Al1mov2004)
